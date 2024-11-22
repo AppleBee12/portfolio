@@ -44,7 +44,7 @@
 >> - Tool : 피그마, Vscode, github, dothome
 >> - Language : HTML/CSS(flex, responsive), j-query, javascript (+ swiperjs, AOS, parallaxjs, bootstrap, materialize)
 >
-> [깃허브 페이지](https://github.com/AppleBee12/I_like_gam_secondary_project)
+> [깃허브 페이지](https://github.com/AppleBee12/I_like_gam_secondary_project)<br />
 > [구현 사이트](https://applebee12.github.io/I_like_gam_secondary_project/)
 
 <br />
@@ -60,7 +60,7 @@
 >> - Tool : 피그마, Vscode, github, dothome
 >> - Language : HTML/CSS(flex), javascript (+ 외부API활용)
 >> 
-> [깃허브 페이지](https://github.com/AppleBee12/seoul_agrocenter)
+> [깃허브 페이지](https://github.com/AppleBee12/seoul_agrocenter)<br />
 > [구현 사이트](https://applebee12.github.io/seoul_agrocenter/)
 
 
